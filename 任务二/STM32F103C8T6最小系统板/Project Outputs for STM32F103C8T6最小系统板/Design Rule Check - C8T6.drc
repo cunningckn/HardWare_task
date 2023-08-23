@@ -1,0 +1,12 @@
+Protel Design System Design Rule Check
+PCB File : D:\AD20_MYAltium\STM32F103C8T6最小系统板\C8T6.PcbDoc
+Date     : 2023/08/04
+Time     : 0:25:48
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=15mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:00
